@@ -1,5 +1,7 @@
 #!/bin/bash
 # Mój 1 skrypt napisany przez ChatGPT- vibe coding i pomoc od claude.AI- Wojtech
+
+
 print_color() {
     local color_code=$1
     shift
