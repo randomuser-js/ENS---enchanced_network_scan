@@ -4,7 +4,7 @@
 # Mój 1 skrypt napisany przez ChatGPT- vibe coding i claude.AI - Wojtech
 # Skrypt skanuje dostepne sieci podaje jej parametry IP, Brama, adres MAC urzadzenia, na koniec rysuje prosta grafikę w ASCII.
 
-# do poprawy!
+# do poprawy! nie działa LAN
 
 print_color() {
 local color_code=$1

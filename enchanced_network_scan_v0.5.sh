@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# jest ok
+# Kolorowa skłądnia, ale źle rozpoznaje urzadzenia LAN. Brak opisów jak dla laika.
 
 
 

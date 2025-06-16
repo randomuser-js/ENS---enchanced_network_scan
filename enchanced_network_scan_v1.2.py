@@ -1,3 +1,6 @@
+# nie działa!
+
+
 def print_network_architecture():
     gw_ip, vendor, model = get_router_info()
     ifaces = interfaces()

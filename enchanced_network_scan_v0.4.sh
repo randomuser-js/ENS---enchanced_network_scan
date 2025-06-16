@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# jest ok
-
+# Podaje wszystko "jak na tacy dla początkującego - opisy inerfaców, Ip itd."
+# Skanuje i podaje wszystko bez kolorowania składni. Dobrze rozpoznaje sieć LAN i urzadzenia.
 # Sprawdzanie uprawnień root
 if [[ $EUID -ne 0 ]]; then
     echo "Uruchom ten skrypt z uprawnieniami administratora (sudo)." >&2

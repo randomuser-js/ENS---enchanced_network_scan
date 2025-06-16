@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# skrypt ma błędy i niepotrzebnie pinguje wszystkie wolne IP. 
+
 # Sprawdzanie, czy użytkownik uruchomił skrypt z uprawnieniami administratora
 if [[ $EUID -ne 0 ]]; then
     echo -e "\e[31mUruchom ten skrypt z uprawnieniami administratora (sudo).\e[0m" >&2

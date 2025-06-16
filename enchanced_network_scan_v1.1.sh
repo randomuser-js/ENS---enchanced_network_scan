@@ -1,6 +1,6 @@
 #!/bin/bash
 # Mój 1 skrypt napisany przez ChatGPT- vibe coding i pomoc od claude.AI- Wojtech
-
+# nie działa
 
 print_color() {
     local color_code=$1
