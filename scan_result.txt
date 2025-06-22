@@ -1,1 +1,1 @@
-Interface: enp0s31f6, type: EN10MB, MAC: 88:a4:c2:1d:e4:1d, IPv4: (none)
+Interface: enp0s31f6, type: EN10MB
