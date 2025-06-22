@@ -3,5 +3,4 @@ My first script in bash, used to learn basics of networking in home lab and basi
 
 16.06.2025 r - 
 Dopisanie komentarzy
-"Wydanie wersji 1.4, skrócenie nazwy"
-
+Wydanie wersji 1.4, skrócenie nazwy
