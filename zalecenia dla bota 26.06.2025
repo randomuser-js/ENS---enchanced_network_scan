@@ -1,0 +1,12 @@
+Zadanie: masz skrypt do rozpoznawania urzadzeń w sieci LAN, WAN.
+Masz go zoptymalizować.
+0. SKopjuj ten plik w tym folderze, nadaj mu nazwę ENS-v.1.4.1.sh
+1. Dodać rozpoznawanie NAT w sieci lokalnej i wypisywanie połączeń mostkowych na kablu. np. przy IP hosta wpisz [Sieć NAT - mostek przekazuje wifi do hosta]
+2. Popraw rysunek ASCII dla wifi, ma rozpoznawać aktualnie podpięte urzadzenia do sieci wi-fi i rysować tylko te które są aktualnie podpięte.
+Czyli Laptopy, Desktopy, Smartfony, IoT, Smart Telewizory etc. Ściągnij przykładowe OUI od producentów tych urzadzeń po 10 sztuk najbardziej rozpoznawalnych - rozpoznawaj je po adresie MAC.
+3. Popraw rozpoznawanie urządzeń LAN i rysowanie na końcu wyniku skryptu, schematu architektury sieci LAN - obecnie nie rozpoznaje urządzeń.
+4. Popraw żeby się te rysunki w ASCII nie rozjeżdały w terminalu.
+5. Dodaj informację o samorozponawaniu się. gdy skanuje Rasberyy Pi skrypt niech poda informację, że skanowanie wyszło z urządzenia o IP ...... i jest to Rasberry Pi
+
+
+ściezka do pliku @/home/gosc/MojeSkrypty/ENS/ENS_v.1.4.sh
