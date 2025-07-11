@@ -7,7 +7,7 @@
     - [Contact](#contact)
     - [Changelog](#changelog)
     - [26.06.2025 ENS\_v\_1.4](#26062025-ens_v_14)
-    - [0.07.2025 ENS\_v\_1\_4\_1](#0072025-ens_v_1_4_1)
+    - [11.07.2025 ENS\_v\_1.5](#11072025-ens_v_15)
 
 ## Description 
 
@@ -76,7 +76,7 @@ bugz.sekkerATgmail.com
 
 ---
 
-### 0.07.2025 ENS_v_1_4_1
+### 11.07.2025 ENS_v_1.5
 
 - some polishing actions, changed text to columns
 - repaired recognizing LAN hardware
